@@ -1,12 +1,14 @@
 # CIM111 Weblab - Spring 2019
 
-### Instructors
+### Instructor
+Lindsay Grace
+CIM111-S Wolfson 3034 Lindsay Grace TuTh 3:30PM - 4:45PM 
+
+Other CIM111 Classes:
 
 CIM111-36 Wolfson 3032 Zevensuy Rodriguez TuTh 2:30PM - 3:45PM [Class Site](https://github.com/zevenrodriguez/Weblab)
 
 CIM111-Q Communication Intl 2054 William Jattin TuTh 12:30PM - 1:45PM [Class Site](https://github.com/wjattin/weblab/)
-
-CIM111-S Wolfson 3034 Lindsay Grace TuTh 3:30PM - 4:45PM [Class Site]()
 
 CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Site](https://github.com/eliot84/Weblab)
 
@@ -20,9 +22,10 @@ CIM111-T Communication Intl 2054 Eliot Rodriguez TuTh 5:00PM - 6:15PM [Class Sit
 ### [Week 1 - Introduction to Web (Jan 14th-17th)](https://github.com/UMInteractive/Weblab/wiki/1-Intro-to-the-WWW)
 
 ### [Week 2 -Setting up your environment (Jan 21th-24th)](https://github.com/UMInteractive/Weblab/wiki/Setting-Up-Your-Environment)
-#### Martin Luther King Day January 21st - No Monday Class
+#### Thursday class - Guest Instructor: Kim Grinfeder
 
 ### [Week 3 - Introduction to HTML (Jan 28th-31st)](https://github.com/UMInteractive/Weblab/wiki/2-HTML)
+#### Thursday class - Guest Instructor: Kim Grinfeder
 
 ### [Week 4 - HTML Cont. and CSS (Feb 4th-7th)](https://github.com/UMInteractive/Weblab/wiki/3-CSS)
 
